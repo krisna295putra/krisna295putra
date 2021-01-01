@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🔭 I’m currently working on IAIN Samarinda, Indonesia as Software Engineer. Like to learn everything needed for now and later<br>
+⚡ Fun fact: I'm (not) superman.
 <!--
 **krisna295putra/krisna295putra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
